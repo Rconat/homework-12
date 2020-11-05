@@ -1,3 +1,5 @@
+/* using https://contrastchecker.com/ to find the optimal color for background and foreground*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -83,7 +85,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #2A607C;
 }
 
 .benefit-lead {
@@ -139,7 +141,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #2a607b;
     color: #ffffff;
 }
 
@@ -148,7 +150,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #2a607b;
     color: #ffffff;
 }
 
@@ -157,7 +159,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #2a607b;
     color: #ffffff;
 }
 
