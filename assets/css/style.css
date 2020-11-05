@@ -19,7 +19,7 @@ body {
 
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 350%;
 }
 
 .header h1 .seo {
@@ -31,7 +31,7 @@ body {
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 140%;
 }
 
 .header div ul {
@@ -49,7 +49,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 105%;
 }
 
 .hero {
@@ -106,16 +106,19 @@ p {
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 120%;
 }
 
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 120%;
 }
 
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 120%;
 }
 
 .benefit-lead img {
@@ -177,17 +180,17 @@ p {
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 210%;
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 210%;
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 210%;
 }
 
 .footer {
@@ -198,5 +201,5 @@ p {
 }
 
 .footer h2 {
-    font-size: 20px;
+    font-size: 120%;
 }
