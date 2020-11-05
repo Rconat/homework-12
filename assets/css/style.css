@@ -133,3 +133,36 @@ footer {
 footer h2 {
     font-size: 120%;
 }
+
+@media screen and (max-width:1150px){
+
+    header div {
+        font-size: 120%;
+    }
+
+}
+
+@media screen and (max-width:1042px){
+
+    header div {
+        font-size: 110%;
+    }
+
+}
+
+@media screen and (max-width:988px){
+
+    header div {
+        padding-top: 0px;
+        margin-right: 10px;
+        float: right;
+    }
+
+    header div ul {
+        list-style-type: none;
+    }
+    
+    header div ul li {
+        display: block;
+        margin-left: 10px;
+}
