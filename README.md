@@ -10,8 +10,24 @@ You can find this assignment on [GitHub](https://github.com/Rconat/homework-12/)
 
 ## Table of Contents
 
+* [List of Files](#List-of-Files)
 * [Usage](#usage)
 * [Credits](#credits)
+
+## List of Files
+
+<ul>
+    <li>index.html</li>
+    <li>style.csss</li>
+    <li>README.md</li>
+    <li>brand-awareness.png</li>
+    <li>cost-management.png</li>
+    <li>digital-marketing-meeting.jpg</li>
+    <li>lead-generation.png</li>
+    <li>online-reputation-management.jpg</li>
+    <li>search-engine-optimization.jpg</li>
+    <li>social-media-marketing.jpg</li>
+</ul>
 
 ## Usage 
 
