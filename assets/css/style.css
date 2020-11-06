@@ -77,6 +77,8 @@ p {
     margin-left: 20px;
 }
 
+/* Changed the background colors to reflect the most visually accessible color from the 3 original colors. Kept the color consistant throughout the webpage*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,6 +136,8 @@ footer h2 {
     font-size: 120%;
 }
 
+/* Media selector for responsive website features */
+
 @media screen and (max-width:1150px){
 
     header div {
@@ -158,10 +162,6 @@ footer h2 {
         float: right;
     }
 
-    header div ul {
-        list-style-type: none;
-    }
-    
     header div ul li {
         display: block;
         margin-left: 10px;
