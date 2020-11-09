@@ -10,7 +10,7 @@ The webpage is hosted on [GitHub](https://rconat.github.io/homework-12/).
 
 You can find the repo on [GitHub](https://github.com/Rconat/homework-12/).
 
-![Website Layout](fullWebsiteLayout.png)
+![Website Layout](assets/images/fullWebsiteLayout.png)
 
 ## Table of Contents
 
