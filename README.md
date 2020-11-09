@@ -6,7 +6,11 @@ The purpose of this assignment is to take an existing webpage and modify the cod
 
 This is very useful to provide a good work flow for improving existing websites and make them more accessible for a wider audience. 
 
-You can find this assignment on [GitHub](https://github.com/Rconat/homework-12/).
+The webpage is hosted on [GitHub](https://rconat.github.io/homework-12/).
+
+You can find the repo on [GitHub](https://github.com/Rconat/homework-12/).
+
+![Website Layout](fullWebsiteLayout.png)
 
 ## Table of Contents
 
@@ -27,6 +31,7 @@ You can find this assignment on [GitHub](https://github.com/Rconat/homework-12/)
     <li>online-reputation-management.jpg</li>
     <li>search-engine-optimization.jpg</li>
     <li>social-media-marketing.jpg</li>
+    <li>fullWebsiteLayout.png</li>
 </ul>
 
 ## Usage 
